@@ -12,7 +12,7 @@ Find out more about me & feel free to connect with me here: https://www.linkedin
 
 [![Linkedin Badge](https://img.shields.io/badge/-Teshera%20Kimbrough-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tesherakimbrough)](https://www.linkedin.com/in/teshera.kimbrough)
 [![Medium Badge](https://img.shields.io/badge/Teshera%20Kimbrough-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@teshera.kimbrough)](https://medium.com/@teshera.kimbrough)
-[![Gmail Badge](https://img.shields.io/badge/-<teshera.kimbrough@gmail.com>-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<teshera.kimbrough@gmail.com>)](mailto:teshera.kimbrough@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-teshera.kimbrough@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<teshera.kimbrough@gmail.com>)](mailto:teshera.kimbrough@gmail.com)
 
 ## ⚡ Technologies
 
