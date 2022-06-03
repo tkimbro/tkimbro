@@ -10,9 +10,9 @@ Find out more about me & feel free to connect with me here: https://www.linkedin
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Teshera%20Kimbrough-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/tesherakimbrough>)](<https://www.linkedin.com/in/teshera.kimbrough>)
-[![Medium Badge](https://img.shields.io/badge/Teshera%20Kimbrough-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://www.medium.com/@teshera.kimbrough>)](<https://medium.com/@teshera.kimbrough>)
-[![Gmail Badge](https://img.shields.io/badge/-<teshera.kimbrough@gmail.com>-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<teshera.kimbrough@gmail.com>)](mailto:<teshera.kimbrough@gmail.com>)
+[![Linkedin Badge](https://img.shields.io/badge/-Teshera%20Kimbrough-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tesherakimbrough)](https://www.linkedin.com/in/teshera.kimbrough)
+[![Medium Badge](https://img.shields.io/badge/Teshera%20Kimbrough-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@teshera.kimbrough)](https://medium.com/@teshera.kimbrough)
+[![Gmail Badge](https://img.shields.io/badge/-<teshera.kimbrough@gmail.com>-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<teshera.kimbrough@gmail.com>)](mailto:teshera.kimbrough@gmail.com)
 
 ## ⚡ Technologies
 
@@ -29,8 +29,8 @@ Find out more about me & feel free to connect with me here: https://www.linkedin
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=<tkimbro>&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<tkimbro>&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tkimbro&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkimbro&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=<tkimbro>%2F<tkimbro>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<tkimbro>%2F<tkimbro>)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=<tkimbro>%2F<tkimbro>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<tkimbro>%2Ftkimbro)
